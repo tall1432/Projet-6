@@ -1,0 +1,22 @@
+td {
+    width: 58px;
+    height: 58px;
+    background: lightgray;
+    border: black 1px solid;
+}
+
+.obstacle {
+    background-color: black;
+}
+
+.player {
+    background-color: blue;
+}
+
+.weapon {
+    background-color: red;
+}
+
+.active {
+    background-color: black;
+}
